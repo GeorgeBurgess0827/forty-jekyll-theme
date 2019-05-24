@@ -25,6 +25,7 @@ The new IA will will meet and answer the following goals and concerns of the lib
 </ul>
 
 <h3>Actions</h3>
+
 Over the course of six weeks, user research was conducted, a new Information architecture was 
 designed, the new IA was evaluated, and the finalized IA and design decisions were delivered. In Week one and two, participant recruitment & interviews was conducted with people who have knowledge of municipal library users to learn what library users tend to do and what they want to do. In week three, the information and data gathered from the user research was used to create the information architecture for the site’s redesign. Which includes content analysis, 
 development of a classification scheme, and the creation of a site map. In week four, a taxonomy design assessment was conducted to evaluate the new IA. In week five and six. testing was continued with a navigation assessment. Finally, all of the information and data gathered from the assessments was used to improve and finalize the new Information architecture and design decisions.
@@ -33,9 +34,7 @@ development of a classification scheme, and the creation of a site map. In week 
 <h3>Results</h3>
 Below are a few screenshots of the deliverables created. To see the the entire set of deliverables as well as result from the user research, please see the full report.
  
-<h3>Image</h3>
 
-<h4>Fit</h4>
 <span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">

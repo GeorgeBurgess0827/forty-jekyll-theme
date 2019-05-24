@@ -2,7 +2,7 @@
 layout: post
 title: Papa John's Online Study
 description: Usability Study
-image: assets/images/pic06.jpg
+image: assets/images/pic02.jpg
 ---
 
 <h2>Papa John's Online Study</h2>

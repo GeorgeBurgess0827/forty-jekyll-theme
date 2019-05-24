@@ -2,7 +2,7 @@
 layout: post
 title: Upper Sandusky Library
 description: Website Redesign
-image: assets/images/pic06.jpg
+image: assets/images/usc_logo.png
 ---
 
 <h2>Upper Sandusky Library</h2>

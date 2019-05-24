@@ -5,8 +5,8 @@ description: Lorem ipsum dolor est
 image: assets/images/Banner.png
 nav-menu: true
 ---
-<header class="major">
-			<h1>About</h1>
+		<header class="major">
+			<h1>{{ page.title }}</h1>
 		</header>
 
 <span class="image main"><img src="assets/images/Banner.png" alt="" /></span>

@@ -18,10 +18,10 @@ The Upper Sandusky Community library director would like the library’s website
 
 The new IA will will meet and answer the following goals and concerns of the library’s website: 
 <ul>
- <li>Patrons will find it less daunting to find Information. 
- <li>The information will be organized better. 
- <li>Patrons will able to find exactly what they are looking for. 
- <li>The redesigned website will be easy for existing staff to maintain.
+ <li>Patrons will find it less daunting to find Information.</li> 
+ <li>The information will be organized better.</li> 
+ <li>Patrons will able to find exactly what they are looking for.</li> 
+ <li>The redesigned website will be easy for existing staff to maintain.</li>
 </ul>
 
 <h3>Actions</h3>

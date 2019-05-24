@@ -44,4 +44,4 @@ From this Project I learned the following:
   <li>The difference between qualitative and quantitative usability evaluations.</li>
 </ul>  
 
-<a href="#" class="button special">Full Report/a>
+<a href="#" class="button special">Full Report</a>

@@ -1,16 +1,10 @@
 ---
-layout: page
+layout: about
 title: About
 description: Lorem ipsum dolor est
 image: assets/images/Banner.png
 nav-menu: true
 ---
-<div class="inner">
-<header class="major">
-			<h1>{{ page.title }}</h1>
-</header>
-</div>
-<span class="image main"><img src="assets/images/Banner.png" alt="" /></span>
 
 My ambition is to one day become proficient at both Front-End Development
 as well as UX Design. With the combination of these two skill sets I will be able to

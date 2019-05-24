@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About
 description: Lorem ipsum dolor est
 image: assets/images/Banner.png

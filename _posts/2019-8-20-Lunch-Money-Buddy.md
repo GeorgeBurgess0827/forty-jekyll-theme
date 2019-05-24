@@ -2,7 +2,7 @@
 layout: post
 title: Lunch Money Buddy
 description: Mobile Application Design
-image: assets/images/pic06.jpg
+image: assets/images/pic05.jpg
 ---
 
 Lunch Money Buddy

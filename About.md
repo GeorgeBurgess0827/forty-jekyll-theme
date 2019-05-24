@@ -5,10 +5,11 @@ description: Lorem ipsum dolor est
 image: assets/images/Banner.png
 nav-menu: true
 ---
-		<header class="major">
+<div class="inner">
+<header class="major">
 			<h1>{{ page.title }}</h1>
-		</header>
-
+</header>
+</div>
 <span class="image main"><img src="assets/images/Banner.png" alt="" /></span>
 
 My ambition is to one day become proficient at both Front-End Development

@@ -24,6 +24,7 @@ The new IA will will meet and answer the following goals and concerns of the lib
  <li>The redesigned website will be easy for existing staff to maintain.
 </ul>
 
+
 <h3>Actions</h3>
 
 Over the course of six weeks, user research was conducted, a new Information architecture was 
@@ -65,4 +66,5 @@ From this Project I learned the following:
  <li>How to valuate an information architecture navigation design.</li>
 <ul>
  
- <a href="#" class="button special">Full Report</a>
+ 
+<a href="#" class="button special">Full Report</a>

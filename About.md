@@ -1,10 +1,15 @@
 ---
-layout: post
+layout: page
 title: About
 description: Lorem ipsum dolor est
 image: assets/images/Banner.png
 nav-menu: true
 ---
+<header class="major">
+			<h1>About</h1>
+		</header>
+
+<span class="image main"><img src="assets/images/Banner.png" alt="" /></span>
 
 My ambition is to one day become proficient at both Front-End Development
 as well as UX Design. With the combination of these two skill sets I will be able to

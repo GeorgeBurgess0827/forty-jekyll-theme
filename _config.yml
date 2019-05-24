@@ -2,7 +2,7 @@
 title: George Burgess
 subtitle: UX Designer
 email: geburgessjr@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: tech junkie, Avid movie lover,  <br /> and a fan of good music..
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -14,7 +14,7 @@ country: United States of America
 phone: (716) 555-5555
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
